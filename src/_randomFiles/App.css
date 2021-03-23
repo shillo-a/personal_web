@@ -1,0 +1,37 @@
+/* main theme variables
+:root{
+    --mainGrey: #f5f5f5;
+    --mainWhite: #fff;
+    --mainBlack: #222;
+    --mainYellow: #ffcb05;
+  
+    --mainSpacing: 0.1rem;
+    --mainTransition: all 0.1s linear;
+  }
+  
+/* 
+  body {
+    position: relative;
+    font-family: 'Roboto', sans-serif ; 
+    /* font-family: 'Yanone Kaffeesatz', sans-serif; */
+    background: var(--mainWhite);
+  }  */
+
+
+  
+/* global styles */
+.heading-style{
+    background: white;
+}
+
+.code-style {
+    background-color: #1e1e1e;
+    color: #9cdcf0;
+    /* color: #4ec9b0; */
+}
+
+.fix-center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+} */

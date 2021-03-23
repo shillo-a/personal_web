@@ -1,0 +1,30 @@
+ 
+/* Избавляемся от лишних побелов при Enter */
+  .public-DraftStyleDefault-block {
+    margin: 0 !important;
+  }
+  
+ /* избавляемся от контуров */
+  .wrapper-view-class {
+    padding: none !important;
+    border: none !important;
+  }
+
+/* избавляемся от лишних паддингов */
+  .editor-view-class {
+    padding: 0px !important;
+  }
+
+
+  .wrapper-class {
+    border: 1px solid #ccc;
+    background-color: white;
+  }
+  .editor-class {
+    /* background-color:lightgray; */
+    padding: 1rem;
+    /* border: 1px solid #ccc; */
+  }
+  /* .toolbar-class {
+    border: 1px solid #ccc;
+  } */
